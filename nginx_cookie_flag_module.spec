@@ -4,7 +4,7 @@
 #
 Name     : nginx_cookie_flag_module
 Version  : 1.1.0
-Release  : 29
+Release  : 30
 URL      : https://github.com/AirisX/nginx_cookie_flag_module/archive/v1.1.0.tar.gz
 Source0  : https://github.com/AirisX/nginx_cookie_flag_module/archive/v1.1.0.tar.gz
 Summary  : No detailed summary available
